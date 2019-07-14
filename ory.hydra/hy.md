@@ -34,3 +34,9 @@ hydra clients [command]
 | --config | string | 配置文件。默认为 \( $HOME/.hydra.yaml \) |
 | --skip-tls-verify |  |  |
 
+###  CREATE --- 创建客户端
+
+```bash
+hydra clients create
+```
+
