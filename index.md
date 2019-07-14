@@ -1,10 +1,10 @@
 ---
-description: 主要页面
+description: 首页显示页面
 ---
 
 # index
 
 页面导航功能
 
-测 其他
+Ory.Hydra  服务器操作命令
 
