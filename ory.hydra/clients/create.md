@@ -22,10 +22,6 @@ Example:
 $ hydra clients create -n "my app" -c http://localhost/cb -g authorization_code -r code -a core,foobar
 ```
 
-{% hint style="success" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
 支持的参数包括
 
 | 参数名 | 类型 | 说明 |
