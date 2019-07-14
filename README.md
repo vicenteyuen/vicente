@@ -1,2 +1,2 @@
-# 个人科技研究主页
+# Initial page
 
