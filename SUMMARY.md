@@ -5,5 +5,6 @@
 
 ## ory.hydra
 
-* [Clients](ory.hydra/hy.md)
+* [Clients](ory.hydra/clients/README.md)
+  * [Create](ory.hydra/clients/create.md)
 
