@@ -5,5 +5,5 @@
 
 ## ory.hydra
 
-* [Hy](ory.hydra/hy.md)
+* [Clients](ory.hydra/hy.md)
 
