@@ -39,3 +39,11 @@ $ hydra clients list
 | --fake-tls-termination |  | Fake tls termination by adding "X-Forwarded-Proto: https" to http headers |
 | --skip-tls-verify |  | Foolishly accept TLS certificates signed by unkown certificate authorities |
 
+## 2.  示例
+
+列出已经注册的客户端信息
+
+```bash
+$ hydra clients list --endpoint http://localhost:4445
+```
+
