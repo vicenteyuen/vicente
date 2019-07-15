@@ -48,8 +48,6 @@ $ hydra clients create -n "my app" -c http://localhost/cb -g authorization_code 
 | --token-endpoint-auth-method | string | Define which authentication method the client may use at the Token Endpoint. Valid values are "client\_secret\_post", "client\_secret\_basic", "private\_key\_jwt", and "none" \(default "client\_secret\_basic"\) |
 | --tos-uri | string | A URL string that points to a human-readable terms of service document for the client that describes a contractual relationship between the end-user and the client that the end-user accepts when authorizing the client |
 
-
-
 支持的全局参数包括
 
 | 参数名 | 类型 | 说明 |

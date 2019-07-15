@@ -5,7 +5,7 @@ Clients 命令
 语法：
 
 ```text
-hydra clients [command]
+$ hydra clients [command]
 ```
 
 支持可用的命令如下：
