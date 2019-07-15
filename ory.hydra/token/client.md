@@ -24,3 +24,22 @@ $  hydra token client [flags]
 | --scope | srings | OAuth2 scope to request |
 | -v, --verbose |  | Toggle verbose output mode |
 
+
+
+支持的全局参数
+
+| 参数名 | 类型 | 说明 |
+| :--- | :--- | :--- |
+| --config | string | Config file \(default is $HOME/.hydra.yaml\) |
+| --fail-after | duration | Stop retrying after the specified duration \(default 1m0s\) |
+| --fake-tls-termination |  | fake tls termination by adding "X-Forwarded-Proto: https" to http headers |
+| --skip-tls-verify |  | Foolishly accept TLS certificates signed by unkown certificate authorities |
+
+## 2.  示例
+
+通过用户认证授权处理
+
+```bash
+$ hydra token client --endpoint http://localhost:4444/ --client-id 426d602a-9ee4-4765-93a9-46e4d0dafbe1 --client-secret fT3cZmqCW7XJT9paLDiT~UdciC
+```
+
