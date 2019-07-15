@@ -9,4 +9,5 @@
   * [All](ory.hydra/serve/all.md)
 * [Clients](ory.hydra/clients/README.md)
   * [Create](ory.hydra/clients/create.md)
+  * [List](ory.hydra/clients/list.md)
 
